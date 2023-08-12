@@ -3,12 +3,23 @@ entries:
   App:
   - apiVersion: v2
     appVersion: undefined
-    created: "2023-08-11T00:38:23.2134522+02:00"
+    created: "2023-08-12T12:09:31.255046+02:00"
     description: Deployment with ingress for app.
-    digest: 4241629b00e14fe894828bcfabb5572b4df2b0784d6a4799ba0ee1aa074af175
+    digest: 0fa4e756f3cad56785d93db1912c2d4344091196f3ad21e4e6dc13ba1b1bf538
     name: App
     type: application
     urls:
     - https://owlebot.github.io/helm-repo/App-0.1.0.tgz
     version: 0.1.0
-generated: "2023-08-11T00:38:23.2129524+02:00"
+  Infisical:
+  - apiVersion: v2
+    appVersion: undefined
+    created: "2023-08-12T12:09:31.2555454+02:00"
+    description: Infisical secret definition.
+    digest: 964362f59dbec0f7ea69d8c4fc2166ce111a6a0aca2da12dbf78d8a206bada06
+    name: Infisical
+    type: application
+    urls:
+    - https://owlebot.github.io/helm-repo/Infisical-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-08-12T12:09:31.2545464+02:00"
