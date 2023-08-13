@@ -28,4 +28,4 @@ jobs:
           push-branch: 'main'
           commit-message: 'auto: helm repo index'
           force-add: 'true'
-          files: index.yaml
+          files: '.'
